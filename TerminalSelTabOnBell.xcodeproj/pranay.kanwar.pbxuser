@@ -1,7 +1,7 @@
 // !$*UTF8*$!
 {
 	089C1669FE841209C02AAC07 /* Project object */ = {
-		activeBuildConfigurationName = Debug;
+		activeBuildConfigurationName = Release;
 		activeTarget = 8D5B49AC048680CD000E48DA /* TerminalSelTabOnBell */;
 		addToTargets = (
 			8D5B49AC048680CD000E48DA /* TerminalSelTabOnBell */,
@@ -52,15 +52,15 @@
 					PBXFileDataSource_Warnings_ColumnID,
 				);
 			};
-			PBXPerProjectTemplateStateSaveDate = 346745175;
-			PBXWorkspaceStateSaveDate = 346745175;
+			PBXPerProjectTemplateStateSaveDate = 346748951;
+			PBXWorkspaceStateSaveDate = 346748951;
 		};
 		perUserProjectItems = {
 			E45ADD9914AAE8A900780319 /* PBXTextBookmark */ = E45ADD9914AAE8A900780319 /* PBXTextBookmark */;
 			E45ADD9A14AAE8A900780319 /* PBXTextBookmark */ = E45ADD9A14AAE8A900780319 /* PBXTextBookmark */;
 			E45ADD9B14AAE8A900780319 /* PBXTextBookmark */ = E45ADD9B14AAE8A900780319 /* PBXTextBookmark */;
+			E4D030DE14AAF9020045FFFF /* PBXTextBookmark */ = E4D030DE14AAF9020045FFFF /* PBXTextBookmark */;
 			E4FC7C2914AAE98D00179E21 /* PlistBookmark */ = E4FC7C2914AAE98D00179E21 /* PlistBookmark */;
-			E4FC7C2A14AAE98D00179E21 /* PBXTextBookmark */ = E4FC7C2A14AAE98D00179E21 /* PBXTextBookmark */;
 			E4FC7C2B14AAE98D00179E21 /* PBXTextBookmark */ = E4FC7C2B14AAE98D00179E21 /* PBXTextBookmark */;
 		};
 		sourceControlManager = E41AEB4714A11983005C1626 /* Source Control */;
@@ -69,7 +69,7 @@
 	};
 	089C167EFE841241C02AAC07 /* English */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {1011, 389}}";
+			sepNavIntBoundsRect = "{{0, 0}, {1011, 382}}";
 			sepNavSelRange = "{0, 0}";
 			sepNavVisRange = "{0, 45}";
 		};
@@ -142,6 +142,16 @@
 		vrLen = 1013;
 		vrLoc = 0;
 	};
+	E4D030DE14AAF9020045FFFF /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 089C167EFE841241C02AAC07 /* English */;
+		name = "InfoPlist.strings: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 45;
+		vrLoc = 0;
+	};
 	E4FC7C2914AAE98D00179E21 /* PlistBookmark */ = {
 		isa = PlistBookmark;
 		fRef = 8D5B49B7048680CD000E48DA /* Info.plist */;
@@ -152,17 +162,7 @@
 		);
 		name = /Users/pranay.kanwar/Source/TerminalSelTabOnBell/Info.plist;
 		rLen = 0;
-		rLoc = 9223372036854775807;
-	};
-	E4FC7C2A14AAE98D00179E21 /* PBXTextBookmark */ = {
-		isa = PBXTextBookmark;
-		fRef = 089C167EFE841241C02AAC07 /* English */;
-		name = "InfoPlist.strings: 1";
-		rLen = 0;
-		rLoc = 0;
-		rType = 0;
-		vrLen = 45;
-		vrLoc = 0;
+		rLoc = 9223372036854775808;
 	};
 	E4FC7C2B14AAE98D00179E21 /* PBXTextBookmark */ = {
 		isa = PBXTextBookmark;
